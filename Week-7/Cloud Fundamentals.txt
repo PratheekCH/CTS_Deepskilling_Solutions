@@ -1,0 +1,20 @@
+# Module 15 - Cloud Fundamentals
+
+## What I Read
+- Cloud computing basics.
+- Cloud service models: IaaS, PaaS, SaaS.
+- Deployment models: Public, Private, Hybrid, Community.
+- AWS global infrastructure and core AWS services.
+- Cloud security, scalability, availability, and cost optimization.
+
+## What I Learned
+- Cloud computing provides on-demand computing resources.
+- Different service models solve different business needs.
+- AWS offers scalable and reliable cloud services.
+- Cloud enables high availability, elasticity, and pay-as-you-go pricing.
+- Security and shared responsibility are important in cloud environments.
+
+## Hands-on Skills Gained
+- Built a strong understanding of cloud fundamentals.
+- Learned basic AWS concepts and architecture.
+- Understood benefits of cloud adoption.

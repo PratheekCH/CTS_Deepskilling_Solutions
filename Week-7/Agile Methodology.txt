@@ -1,0 +1,21 @@
+# Module 14 - Agile Methodology
+
+## What I Read
+- Agile principles and Agile Manifesto.
+- Agile vs Waterfall methodology.
+- Scrum framework (roles, ceremonies, artifacts).
+- Sprint planning, velocity, burndown charts.
+- Story points, Planning Poker, User Stories, INVEST principle.
+- Acceptance criteria using Given-When-Then.
+
+## What I Learned
+- Agile promotes iterative development and continuous feedback.
+- Scrum organizes work into short sprints with defined roles.
+- Story points estimate effort instead of time.
+- Well-written user stories focus on user value.
+- Acceptance criteria clearly define when a feature is complete.
+
+## Hands-on Skills Gained
+- Learned to write user stories.
+- Understood sprint planning and Agile estimation techniques.
+- Became familiar with Scrum practices used in software teams.

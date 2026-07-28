@@ -1,0 +1,20 @@
+# Module 16 - GenAI Fundamentals
+
+## What I Read
+- Introduction to Generative AI.
+- Difference between traditional AI and Generative AI.
+- Prompt engineering techniques (Zero-shot, Few-shot, Chain-of-Thought).
+- Ethical AI practices and responsible AI usage.
+- GitHub Copilot features and AI-assisted software development.
+
+## What I Learned
+- Generative AI can create text, code, and other content from prompts.
+- Prompt quality directly affects AI output.
+- Ethical considerations such as bias, privacy, and responsible usage are important.
+- GitHub Copilot improves developer productivity by suggesting code.
+- AI should assist developers rather than replace critical thinking.
+
+## Hands-on Skills Gained
+- Practiced prompt engineering concepts.
+- Learned how AI coding assistants support software development.
+- Understood responsible use of Generative AI tools.

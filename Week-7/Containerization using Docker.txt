@@ -1,0 +1,20 @@
+# Module 13 - Containerization using Docker
+
+## What I Read
+- Fundamentals of Docker and containerization.
+- Difference between containers and virtual machines.
+- Docker architecture (Docker Engine, Images, Containers, Registry).
+- Docker images, containers, Docker Hub, and Dockerfile.
+- Common Docker commands and container lifecycle.
+
+## What I Learned
+- Docker packages applications with all dependencies into portable containers.
+- Containers are lightweight and start faster than virtual machines.
+- Docker images are templates used to create containers.
+- Dockerfiles automate image creation.
+- Docker Hub is used to share and download Docker images.
+
+## Hands-on Skills Gained
+- Understood Docker workflow.
+- Learned basic Docker commands and image management.
+- Gained awareness of application deployment using containers.

@@ -1,0 +1,21 @@
+# Module 12 - DevOps and CI/CD
+
+## What I Read
+- Introduction to DevOps and its culture.
+- DevOps goals and benefits.
+- Continuous Integration (CI) and Continuous Delivery/Deployment (CD).
+- Differences between CI and CD.
+- Popular CI/CD tools such as Jenkins, GitHub Actions, GitLab CI/CD, and CircleCI.
+- Basic Git collaboration and version control practices used in DevOps.
+
+## What I Learned
+- DevOps improves collaboration between development and operations teams.
+- CI helps developers integrate code frequently and detect issues early.
+- CD automates software delivery and deployment processes.
+- CI/CD pipelines reduce manual effort, improve software quality, and enable faster releases.
+- Git plays an important role in collaborative development and automated deployment workflows.
+
+## Hands-on Skills Gained
+- Understood the DevOps workflow.
+- Learned the purpose of CI/CD pipelines.
+- Explored commonly used DevOps tools and Git-based collaboration.
